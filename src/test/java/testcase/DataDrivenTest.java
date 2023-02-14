@@ -32,10 +32,8 @@ public class DataDrivenTest extends BaseTest {
 		
 		WebElement logoutbutton=driver.findElement(By.xpath(loc.getProperty("logoutbutton")));
 		logoutbutton.click();
-		Thread.sleep(3000);
+		Thread.sleep(2000);
 	
 	}
-	
-	
 }
 
