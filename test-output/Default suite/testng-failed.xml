@@ -5,7 +5,7 @@
     <classes>
       <class name="testcase.DataDrivenTest">
         <methods>
-          <include name="Data" invocation-numbers="1 2"/>
+          <include name="Data" invocation-numbers="1"/>
           <include name="setUp"/>
           <include name="teardown"/>
         </methods>
